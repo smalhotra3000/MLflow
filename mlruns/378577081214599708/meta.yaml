@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/378577081214599708
+creation_time: 1688034734226
+experiment_id: '378577081214599708'
+last_update_time: 1688034734226
+lifecycle_stage: active
+name: housing_value_exp1
