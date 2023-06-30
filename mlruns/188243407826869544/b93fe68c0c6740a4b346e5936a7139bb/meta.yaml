@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sameer.malhotra/Training_TAMLEP_A1_2/MLflow/mlruns/188243407826869544/b93fe68c0c6740a4b346e5936a7139bb/artifacts
+end_time: 1688145705989
+entry_point_name: ''
+experiment_id: '188243407826869544'
+lifecycle_stage: active
+run_id: b93fe68c0c6740a4b346e5936a7139bb
+run_name: CHILD_L2_RUN
+run_uuid: b93fe68c0c6740a4b346e5936a7139bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688145684019
+status: 3
+tags: []
+user_id: sameer.malhotra
